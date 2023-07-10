@@ -2,6 +2,9 @@
 
 textUtils is a application deisgned in a popular Python framework Django. textUtils can analyze the input text with its various functionalities and provide the output to user accordingly.
 
+![t1](https://github.com/Dartpixel/textUtils/assets/89685890/5a85876b-d938-4c24-b6c3-4fb95a8b375f)
+
+
 # Features
 TextUtils provides the following features:
 
@@ -12,6 +15,12 @@ TextUtils provides the following features:
 5. Remove Spaces: Remove the spaces between the words.
 6. Remove Extra Spaces: Remove the extra spaces from the string if any.
 7. Character Count: Calculates the total number of characters in a string.
+   
+![t2](https://github.com/Dartpixel/textUtils/assets/89685890/1106fe7e-158e-494a-9dd1-12a0e931a470)
+
+Output:
+
+![t3](https://github.com/Dartpixel/textUtils/assets/89685890/494a970c-d0cc-4ce2-af71-be63b65a91e5)
 
 # Working
 

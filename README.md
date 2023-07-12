@@ -18,7 +18,7 @@ TextUtils provides the following features:
    
 ![t2](https://github.com/Dartpixel/textUtils/assets/89685890/1106fe7e-158e-494a-9dd1-12a0e931a470)
 
-Output:
+Output:-
 
 ![t3](https://github.com/Dartpixel/textUtils/assets/89685890/494a970c-d0cc-4ce2-af71-be63b65a91e5)
 

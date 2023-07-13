@@ -33,4 +33,4 @@ python manage.py runserver
 
 Application will start on server http://127.0.0.1:8000/.
 
-Pull issue if any problem or suggetion. 
+Pull issue if any problem or suggetion. ;)

@@ -14,7 +14,7 @@ TextUtils provides the following features:
 4. Remove New Line: Remove the new line from the input set of strings.
 5. Remove Spaces: Remove the spaces between the words.
 6. Remove Extra Spaces: Remove the extra spaces from the string if any.
-7. Character Count: Calculates the total number of characters in a string.
+7. Character Counter: Calculates the total number of characters in a string.
    
 ![t2](https://github.com/Dartpixel/textUtils/assets/89685890/1106fe7e-158e-494a-9dd1-12a0e931a470)
 

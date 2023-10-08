@@ -6,7 +6,7 @@ textUtils is a application deisgned in a popular Python framework Django. textUt
 
 
 # Features
-TextUtils provides the following features:
+TextUtils provides the following features:-
 
 1. Remove Punctuation: Removes all punctuation marks from a given string.
 2. Uppercase: Converts the string to uppercase.

@@ -29,7 +29,7 @@ Simply clone this repository into the local and run the application on any of th
 Command:-
 Go to the application directory and type this command either on cmd or in IDE terminal.
 
-python manage.py runserver
+python manage.py runserver.
 
 Application will start on server http://127.0.0.1:8000/
 
